@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+httpx
+pydantic
+pytest 
+python-dotenv
+tiktoken
+sentencepiece
+mistral_common
